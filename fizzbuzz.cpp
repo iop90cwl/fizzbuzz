@@ -16,11 +16,11 @@ int main(){
 		else if (number%5==0 && number%3!=0){
             cout<<"Buzz ";
             cout<<"\n";
-        }
+ 		}
         else if (number%3==0 && number%5==0){
             cout<<"FizzBuzz ";
             cout<<"\n";
-        }
+        	}
 	}
 return 0;
 }
